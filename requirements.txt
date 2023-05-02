@@ -1,0 +1,15 @@
+pyrogram==1.4.16
+tgcrypto
+requests
+pyromod==1.5
+yt-dlp
+ffmpeg
+aiohttp
+aiofiles
+asyncio
+pycurl
+humanize
+
+cryptg
+telethon
+python-decouple
