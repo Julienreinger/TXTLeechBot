@@ -1,4 +1,4 @@
-# PYRO BOT
+# ADR BOT
 
 ## Deploy To Heroku
 
